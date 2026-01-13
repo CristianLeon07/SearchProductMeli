@@ -59,6 +59,13 @@ ANEXO.
 
 Video demostrativo de la aplicación:
 
-## 🎥 Demo en video
 
 [![Ver demo](https://img.youtube.com/vi/ycLAbj9KygM/hqdefault.jpg)](https://youtube.com/shorts/ycLAbj9KygM)
+
+
+## 📦 APK de prueba
+
+Puedes descargar el APK de la prueba técnica desde el siguiente enlace:
+
+👉 [Descargar APK](https://drive.google.com/file/d/1f27a-9VQAFIp6P5a5W12XvdhZCo3qljc/view?usp=drive_link)
+
